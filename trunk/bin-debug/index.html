@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<title>PaddleRoyaleVisualApp</title>
+		
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		
+		<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+		
+		<!-- Color -->
+		<style type="text/css" media="screen">
+			html, body
+			{ 
+				height:100%; 
+				background-color: #000000;
+			}
+			body
+			{
+				margin:0;
+				padding:0;
+				overflow:hidden;
+			}
+			#flashContent
+			{
+				width:100%;
+				height:100%;
+			}
+		</style>
+		
+		<!-- Embed the SWF -->
+		<script type="text/javascript" src="_js/swfobject.js"></script>
+		<script type="text/javascript">
+		
+		// General
+		var swf 				= "_swf/PaddleRoyaleVisualApp.swf";
+		var id					= "flashContent";
+		var w					= "100%"; // 1024
+		var h					= "100%"; // 768
+		var v					= "11";
+		var ei					= "_swf/expressInstall.swf";
+		
+		// Flashvars
+		var fv					= {};
+		fv.goFullscreen			= true;	
+		// Local testing
+		//fv.serverURL			= "http://paddleroyale.localhost/_data/paddleRoyale.php";
+		// Live
+		fv.serverURL			= "http://www.paddle-royale.com/Results"; 
+		
+		// Parameters
+		var params				= {};
+		params.wmode			= "direct";
+		params.menu				= false;
+		params.scaleMode		= "noScale";
+		params.align			= "TL";
+		params.bgcolor			= "0x000000";
+		params.allowFullScreen	= "true";
+		
+		// Attributes
+		var attr				= {};
+		attr.id					= "flash";
+		
+		// Embed
+		swfobject.embedSWF(swf, id, w, h, v, ei, fv, params, attr);
+		</script>
+		
+	</head>
+	<body>
+		<div id="flashContent">
+			<p>Enable JavaScript... Seriously. Who doesn't run JS?</p>
+		</div>
+	</body>
+</html>

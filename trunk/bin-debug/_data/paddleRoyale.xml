@@ -1,0 +1,225 @@
+<!--
+	Data for Paddle Royale
+	Created by Michael Minor on 2011-09-16.
+	Copyright (c) 2011 Arc World Wide. All rights reserved.
+	
+	Sample
+	<agencies>
+		<agency id:String="#" name:String="###">
+			<player id:String="#" name="#" score:String="#" knockedOut:Boolean="false"/>
+		</agency>
+	<agencies>
+-->
+
+<agencies>
+		<agency id="0" name="Leo Burnett">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="9"  	knockedOut="false" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="3"  	knockedOut="false" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="8"  	knockedOut="true" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="5"  	knockedOut="false" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="1"  	knockedOut="true" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="2"  	knockedOut="false" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="5"  	knockedOut="true" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="10"  	knockedOut="true" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="5"  	knockedOut="false" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="8"  	knockedOut="false" />
+		</players>
+	</agency>
+		<agency id="1" name="Razorfish">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="5"  	knockedOut="true" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="2"  	knockedOut="true" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="7"  	knockedOut="false" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="2"  	knockedOut="false" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="5"  	knockedOut="true" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="8"  	knockedOut="true" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="1"  	knockedOut="true" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="1"  	knockedOut="false" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="6"  	knockedOut="false" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="7"  	knockedOut="false" />
+		</players>
+	</agency>
+		<agency id="2" name="FCB">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="8"  	knockedOut="false" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="5"  	knockedOut="true" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="10"  	knockedOut="true" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="6"  	knockedOut="true" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="2"  	knockedOut="true" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="2"  	knockedOut="false" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="4"  	knockedOut="true" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="9"  	knockedOut="true" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="1"  	knockedOut="true" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="10"  	knockedOut="true" />
+		</players>
+	</agency>
+		<agency id="3" name="Artic Fanny Pack">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="4"  	knockedOut="false" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="8"  	knockedOut="true" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="9"  	knockedOut="false" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="4"  	knockedOut="true" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="3"  	knockedOut="false" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="10"  	knockedOut="true" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="7"  	knockedOut="true" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="3"  	knockedOut="false" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="8"  	knockedOut="false" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="1"  	knockedOut="false" />
+		</players>
+	</agency>
+		<agency id="4" name="Gigiddy">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="2"  	knockedOut="true" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="6"  	knockedOut="true" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="6"  	knockedOut="true" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="6"  	knockedOut="false" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="5"  	knockedOut="true" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="1"  	knockedOut="false" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="3"  	knockedOut="false" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="4"  	knockedOut="true" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="6"  	knockedOut="false" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="5"  	knockedOut="false" />
+		</players>
+	</agency>
+		<agency id="5" name="Digitas">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="6"  	knockedOut="true" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="10"  	knockedOut="true" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="8"  	knockedOut="true" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="10"  	knockedOut="false" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="10"  	knockedOut="true" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="5"  	knockedOut="true" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="3"  	knockedOut="false" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="7"  	knockedOut="false" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="4"  	knockedOut="true" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="5"  	knockedOut="false" />
+		</players>
+	</agency>
+		<agency id="6" name="Agency.com">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="7"  	knockedOut="false" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="7"  	knockedOut="false" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="4"  	knockedOut="false" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="10"  	knockedOut="false" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="7"  	knockedOut="true" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="9"  	knockedOut="true" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="7"  	knockedOut="false" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="5"  	knockedOut="true" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="10"  	knockedOut="true" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="1"  	knockedOut="false" />
+		</players>
+	</agency>
+		<agency id="7" name="Giant Squid">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="5"  	knockedOut="true" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="1"  	knockedOut="false" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="5"  	knockedOut="false" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="6"  	knockedOut="false" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="8"  	knockedOut="true" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="7"  	knockedOut="true" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="6"  	knockedOut="true" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="3"  	knockedOut="false" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="3"  	knockedOut="true" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="9"  	knockedOut="false" />
+		</players>
+	</agency>
+		<agency id="8" name="Inverted">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="5"  	knockedOut="false" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="1"  	knockedOut="true" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="5"  	knockedOut="false" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="7"  	knockedOut="true" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="1"  	knockedOut="false" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="3"  	knockedOut="true" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="2"  	knockedOut="true" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="3"  	knockedOut="false" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="10"  	knockedOut="false" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="4"  	knockedOut="false" />
+		</players>
+	</agency>
+		<agency id="9" name="Laughing Squid">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="9"  	knockedOut="false" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="1"  	knockedOut="true" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="4"  	knockedOut="true" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="3"  	knockedOut="false" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="5"  	knockedOut="true" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="5"  	knockedOut="false" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="9"  	knockedOut="false" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="2"  	knockedOut="true" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="2"  	knockedOut="false" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="8"  	knockedOut="true" />
+		</players>
+	</agency>
+		<agency id="10" name="Pew Pew Pew">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="5"  	knockedOut="true" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="6"  	knockedOut="false" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="4"  	knockedOut="false" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="1"  	knockedOut="true" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="6"  	knockedOut="true" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="1"  	knockedOut="true" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="5"  	knockedOut="true" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="8"  	knockedOut="false" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="5"  	knockedOut="true" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="3"  	knockedOut="false" />
+		</players>
+	</agency>
+		<agency id="11" name="Jurassic Park">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="3"  	knockedOut="false" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="9"  	knockedOut="true" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="4"  	knockedOut="false" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="6"  	knockedOut="true" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="8"  	knockedOut="true" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="6"  	knockedOut="true" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="4"  	knockedOut="true" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="7"  	knockedOut="false" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="10"  	knockedOut="false" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="1"  	knockedOut="false" />
+		</players>
+	</agency>
+		<agency id="12" name="Catfish">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="2"  	knockedOut="true" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="10"  	knockedOut="false" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="2"  	knockedOut="false" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="3"  	knockedOut="false" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="8"  	knockedOut="false" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="6"  	knockedOut="false" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="4"  	knockedOut="true" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="2"  	knockedOut="false" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="3"  	knockedOut="false" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="1"  	knockedOut="false" />
+		</players>
+	</agency>
+		<agency id="13" name="2Advanced">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="10"  	knockedOut="false" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="1"  	knockedOut="true" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="8"  	knockedOut="false" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="10"  	knockedOut="false" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="5"  	knockedOut="false" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="2"  	knockedOut="false" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="10"  	knockedOut="true" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="1"  	knockedOut="true" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="8"  	knockedOut="true" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="8"  	knockedOut="true" />
+		</players>
+	</agency>
+		<agency id="14" name="Giggiddy">
+		<players>
+			<player id="0" 	firstName="Michael" 	lastName="Minor" 		score="9"  	knockedOut="true" />
+			<player id="1" 	firstName="Chad" 		lastName="Ziolkowski" 	score="5"  	knockedOut="true" />
+			<player id="2" 	firstName="Char" 		lastName="Mirshak" 		score="6"  	knockedOut="false" />
+			<player id="3" 	firstName="Leonard" 	lastName="Nemoi" 		score="9"  	knockedOut="false" />
+			<player id="4" 	firstName="Scott" 		lastName="North" 		score="3"  	knockedOut="false" />
+			<player id="5" 	firstName="Michael" 	lastName="Miano" 		score="9"  	knockedOut="true" />
+			<player id="6" 	firstName="Ariel" 		lastName="Hammer" 		score="5"  	knockedOut="false" />
+			<player id="7" 	firstName="Ahubha" 		lastName="Dubey" 		score="5"  	knockedOut="true" />
+			<player id="8" 	firstName="Damien" 		lastName="Van Horn" 	score="7"  	knockedOut="true" />
+			<player id="9" 	firstName="Miles" 		lastName="Green" 		score="9"  	knockedOut="true" />
+		</players>
+	</agency>
+	</agencies>
